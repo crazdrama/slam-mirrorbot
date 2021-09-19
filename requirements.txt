@@ -30,3 +30,8 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 youtube_dl
+Pillow==8.1.1  
+lxml
+manga-py
+wget
+telegram-upload
